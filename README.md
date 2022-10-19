@@ -1,16 +1,10 @@
 # newsapp
+fetching news from newsapi.org
 
-A new Flutter project.
+flutter libraries used:
+http : for sending request to api , 
+sqflite : for storing data in device storage ,
+google_sign_in : for signing in with google account ,
+firebase_auth : for firebase authentication like email/password,
+provider : for state management 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
